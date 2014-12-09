@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Driven Alliance Stream
-tagline: Coming Soon.
+title: Driven Stream
+tagline: ideas and insights from Driven and it's Associates.
 ---
 {% include JB/setup %}
 
-Check back in a couple of days!
+<ul class="posts">
+  {% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }} - {{post.tagline}}</a> (by {{post.author}})</li>
+  {% endfor %}
+</ul>
