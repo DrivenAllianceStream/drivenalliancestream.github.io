@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Driven Stream
-tagline: ideas and insights from Driven and it's Associates.
+tagline: ideas and insights from Driven and our Associates.
 ---
 {% include JB/setup %}
 
