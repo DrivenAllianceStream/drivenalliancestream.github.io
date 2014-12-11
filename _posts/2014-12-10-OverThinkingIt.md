@@ -15,7 +15,7 @@ In Brook's article [No Silver bullet](http://worrydream.com/refs/Brooks-NoSilver
 
 Often we choose a framework because all the "cool kids" are using it, and we proceed to find a problem that this framework will be the solution to. Ten hours later, we haven't solved a thing and we've now spent a lot of our time learning a framework, and potentially bad habits at the same time.
 
-When you use open source (or have a reflector with non obfuscated code) you get this amazing benefit: the source code. Is this a real benefit? Why should I have to look at the source to figure out what it's doing? Although this has helped me a lot, including today, this process somehow feels broken. I do have to acknowledge that a lot of work has recently gone into improving open source project's documentation and that is getting better (at least for some projects) which requires less of source code excavating.
+When you use open source (or reflection with non-obfuscated code) you get this amazing benefit: the source code. Is this a real benefit? Why should I have to look at the source to figure out what it's doing? Although this has helped me a lot, including today, this process somehow feels broken. I do have to acknowledge that a lot of work has recently gone into improving open source project's documentation and that is getting better (at least for some projects) which requires less of source code excavating.
 
 ### What can we do to avoid falling into this trap?
 * [Pomodoro's](http://en.wikipedia.org/wiki/Pomodoro_Technique)
