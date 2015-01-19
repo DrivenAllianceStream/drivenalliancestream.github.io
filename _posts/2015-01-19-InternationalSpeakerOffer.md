@@ -10,7 +10,7 @@ tags: [SpeakerSafari, Workshops, drivenSpark]
 
 ![image](/assets/images/speaker-safari.jpg)
 
-Driven has together a package deal for international speakers that would like to visit South Africa and run workshops.
+Driven has put together a package deal for international speakers that would like to visit South Africa and run workshops.
 
 The offer has evolved from a structure we have used for several people already (Rinat Abdullin, Vaughn Vernon, Greg Young). It is as follows:
 
