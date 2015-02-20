@@ -2,7 +2,7 @@
 layout: post
 title: The importance of Implicit Mentorship
 category : Mentorship
-tagline: "What makes Implicit Mentorship different?"
+tagline: ""
 author: Steven McDonald
 tags: [Mentorship]
 ---
@@ -39,4 +39,4 @@ There are a number of things that can be done to foster an environment of implic
 [The anecdote of the frog in boiling water applies here.]( http://en.wikipedia.org/wiki/Boiling_frog) I think the software community is one that needs more mentors and throwing people in at the deep end tends to scare them. By promoting a culture of Implicit Mentorship we can gradually introduce people to mentoring others without it being an official thing. This way people get used to it and once they have been doing it for a while they might be more willing to take on an official mentorship.
 
 
-*(cross posted from - [http://stevenmcd.me/the-one-about-implicit-mentorship/]() )*
+*(cross posted from - [http://stevenmcd.me/the-one-about-implicit-mentorship/](http://stevenmcd.me/the-one-about-implicit-mentorship/) )*
