@@ -8,7 +8,7 @@ tags: [Mentorship]
 ---
 {% include JB/setup %}
 
-I think everyone understands that having an explicit mentor is a great thing that has many benefits but I sometimes I don't think that people think of Implicit Mentorship.
+I think everyone understands that having an explicit mentor is a great thing that has many benefits but I sometimes don't think that people think of Implicit Mentorship.
 
 Explicit Mentorship is an intentional process and is generally a relationship that is agreed on between two or more people. You can discuss topics with your mentor and get feedback and insights on various topics.
 
