@@ -38,7 +38,8 @@ So, what is the answer then? Well, I don't think there is a one size fits all an
 You may find some of your own answers by putting these questions to yourself, and within your organisation. My suggestion is to decide what the boundaries of the system you would like to understand first - it could be yourself, your team, your division or entire organisation, and then spend time thinking about...
 
 ###### Needs Questions
-1. What Needs [1] does the system exist to satisfy? What Needs to the people in the system hope to have met by being a part of it?
+1. What Needs [1] does the system exist to satisfy? What Needs do the people in the system hope to have met by being a part of it?
+1. Is what you are thinking of as a Need not really a strategy to have a deeper Need met?
 1. Is it the role of the humans to meet the Needs of the greater system, or the other way around? Is it a binary choice?
 
 ###### Value Questions
