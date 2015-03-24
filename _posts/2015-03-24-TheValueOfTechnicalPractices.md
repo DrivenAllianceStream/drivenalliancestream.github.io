@@ -15,6 +15,9 @@ tags: [Practices, Spine]
 I started answering him and it turned into something I wanted to say a bit more publicly. Much of which Danie is already well aware of, but it gives me a chance to stand on my soapbox, so here goes...
 
 #### Danie's Note
+
+**EDIT: Danie pointed out to me that I misunderstood his original email - this is not something he wrote, but something Dave Rooney said to Ron Jeffries on the [XP mailing list](https://groups.yahoo.com/neo/groups/extremeprogramming/conversations/messages/159310).**
+
 *Just as a possibly encouraging data point for you, I've had three different
 companies tell me that they're having a tough time keeping up with the
 demand for "technical coaches".  That would be the people who know the
