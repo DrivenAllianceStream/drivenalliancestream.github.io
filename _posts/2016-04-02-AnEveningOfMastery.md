@@ -18,7 +18,7 @@ Two representatives from 8th Light's [London branch](https://8thlight.com/locati
 
 We've taken the opportunity to host them at a free community event. 
 
-The event will begin with an example of software craftsmanship, with Steven McDonald from Driven reprising his talk on Beautiful APIs - this was the most popular talk at Devconf 2016 (according to the eval forms). After that Daniel will speak about his personal path to mastery, then Jim will talk about his experiences replicating 8th Light's culture in London.
+The event will begin with an example of software craftsmanship, with Steven McDonald from Driven reprising his talk on Beautiful APIs - this was the most popular talk at Devconf 2016 (according to the eval forms). After that Daniel will speak about what his time at 8th Light has taught him, then Jim will talk about his experiences replicating 8th Light's culture in London.
 
 ## RSVP
 Seats will be reserved on a strictly first-come first-served basis. Please [RSVP via an email to admin@drivenalliance.com](mailto:admin@drivenalliance.com?subject=I%20would%20like%20to%20attend%20Evening%20of%20Mastery).
@@ -44,7 +44,7 @@ Steven will cover what types of APIs there are and how we can write and maintain
 
 <img style="float: right; margin-right: 150px; border:5px solid #FFFFFF; max-width: 100%;" src="/assets/images/Daniel-Irvine.jpg" />
 
-As a software craftsman that came through 8th Light's apprenticeship program, Daniel will talk about his path and detail the various different development practices 8th Light's teams follow during their daily work. 
+As a software craftsman that came through 8th Light's apprenticeship program, Daniel will talk about his path and discuss the various different development practices 8th Light's teams follow during their daily work, and why.
 
 He will talk about what 8th Light means when they talk of craftsmanship, and how that differs from the industry standard for software development.
 
@@ -57,4 +57,4 @@ He will talk about what 8th Light means when they talk of craftsmanship, and how
 
 On small teams, most processes are informal — they don’t need to be communicated, because they’re solving a problem that is apparent to everyone. As teams grow and these processes mature, it’s imperative that companies confront the risk of the cargo cult and ensure they aren't maintaining processes because of tradition rather than deriving any value from them.
 
-This tension became especially important when I moved from Chicago to open 8th Light’s London office in 2014. In this talk, I’ll explore 8th Light’s culture, and how I recreated a nearly identical culture in an office thousands of miles away by doubling down on our same core values.
+This tension became especially important when Jim moved from Chicago to open 8th Light’s London office in 2014. In this talk, he'll explore 8th Light’s culture, and how he recreated a nearly identical culture in an office thousands of miles away by doubling down on the same core values.
