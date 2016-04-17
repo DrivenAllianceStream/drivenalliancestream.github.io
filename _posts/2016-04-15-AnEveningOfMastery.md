@@ -10,6 +10,22 @@ tags: [Events, Mastery, SoftwareCraftsmanship]
 
 <img style="float: right; margin-right: 150px; border:15px solid white; max-width: 100%;" src="/assets/images/craftsmanship.jpg	" />
 
+> This event happened on the 14th of April. You can get [Steven Mcdonald](https://twitter.com/stevenmcd)'s slides [here](https://dl.dropboxusercontent.com/u/62921/Presentations/mastery/DevConf_BeautifulAPIs_2016.pdf), [Daniel Irvine](https://twitter.com/d_ir)'s [here](https://dl.dropboxusercontent.com/u/62921/Presentations/mastery/Discipline%20and%20professionalism.pdf) and [Jim Suchy](https://twitter.com/jsuchy)'s [here](https://dl.dropboxusercontent.com/u/62921/Presentations/mastery/budding_culture.pdf).
+>
+> ##### Some key slides...
+> * [5 API Design Principles](https://dl.dropboxusercontent.com/u/62921/Presentations/mastery/DevConf_BeautifulAPIs_2016_API_Design_Principles.jpg)
+> * [The Craftsmanship Test](https://dl.dropboxusercontent.com/u/62921/Presentations/mastery/Discipline_and_professionalism_thecraftsmanshiptest.jpg)
+> * [The Craftsmanship Manifesto](https://dl.dropboxusercontent.com/u/62921/Presentations/mastery/budding_culture_craftsmanshipmanifesto.jpg)
+>
+> ##### Books mentioned during talks...
+> * Implementation patterns - Kent Beck
+> * Clean code - Robert Martin
+> * Refactoring - Erich Gamma
+> * The clean coder - Robert Martin
+> * Software Craftsmanship - Pete McBreen
+> * Mastery - George Leonard
+> * Driving technical change - Terrence Ryan
+
 **Driven Alliance** invites you to a free community event, in collaboration with **8th Light**, focused on the software craftsman's path to Mastery.
 
 [8th Light](https://8thlight.com/) is known worldwide as a practical implementation of the [Software Craftsmanship Manifesto](http://manifesto.softwarecraftsmanship.org/), and for their [apprenticeship program](https://8thlight.com/apprenticeship/) for software craftsman. Those that were at Agile Africa last year will remember Doug Bradbury, from 8th Light Chicago, who talked about these. 8th Light is a company that Driven respects, and in many ways seeks to emulate.
