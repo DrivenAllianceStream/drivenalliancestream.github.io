@@ -20,7 +20,7 @@ tags: [Events, Mastery, SoftwareCraftsmanship]
 > ##### Books mentioned during talks...
 > * Implementation patterns - Kent Beck
 > * Clean code - Robert Martin
-> * Refactoring - Erich Gamma
+> * Refactoring - Martin Fowler
 > * The clean coder - Robert Martin
 > * Software Craftsmanship - Pete McBreen
 > * Mastery - George Leonard
