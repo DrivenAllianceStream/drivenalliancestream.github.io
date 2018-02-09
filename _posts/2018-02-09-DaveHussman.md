@@ -66,6 +66,6 @@ Seats will be reserved on a strictly first-come first-served basis. Please [RSVP
 * **Date** 	- Wednesday, 28 March 2018
 * **Venue** - Sandton, Johannesburg, South Africa
 * **Time** 	- Full day
-* **Cost** 	- $350, all inclusive
+* **Cost** 	- R 4230.46, all inclusive
 
 <hr>
